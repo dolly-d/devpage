@@ -37,6 +37,11 @@ export class Navigation extends Component {
                 </a>
               </li>
               <li>
+                <a href="https://docs.google.com/document/d/1bOGmy8YuvMFPUaX-Y3fdxV0zum0Z1PDI3w5Z64WzOF8/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+                  Resume
+                </a>
+              </li>
+              <li>
                 <a href="#features" className="page-scroll">
                   Projects
                 </a>
