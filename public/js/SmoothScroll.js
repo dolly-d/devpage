@@ -291,8 +291,8 @@ function wheel(event) {
         deltaY *= options.stepSize / 120;
     }
     
-    scrollArray(overflowing, -deltaX, -deltaY);
-    event.preventDefault();
+    // scrollArray(overflowing, -deltaX, -deltaY);
+    // event.preventDefault();
 }
 
 /**
