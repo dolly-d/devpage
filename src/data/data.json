@@ -1,0 +1,76 @@
+{
+    "Header": {
+
+        "title": "Welcome ",
+        "paragraph": "Fancy seeing you here! My name is Dolly and I'm a software engineer. Click around to get to know me."
+
+    },
+    "About": {
+        "paragraph": "Hello! My name is Dolly and I'm a Full Stack Software Engineer who enjoys building beautiful applications and troubleshooting through problems. I am a Brooklyn native who loves traveling, beauty, fashion, gaming, health, fitness & so much more! Before transitioning into Software Engineering, I was a brand specialist at Bergdorf Goodman and after 10 years, I was ready to challenge myself and move into a career that will always keep me learning. ",
+        "Why": [
+            "Ruby on Rails",
+            "Javascript",
+            "ReactJS",
+            "React Native"
+        ],
+        "Why2": [
+            "Firebase",
+            "PostgreSQL",
+            "SQLite",
+            "NoSQL"
+        ]
+    },
+    
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "Brooklyn, NY ",
+        "phone": "347-683-5309",
+        "email": "dolly.desir@gmail.com",
+        "twitter": "https://twitter.com/dollicodes",
+        "youtube": "https://www.youtube.com/channel/UC_R2bMW1tLFDQbQqqkDSj7w",
+        "medium": "https://dolly-desir.medium.com/",
+        "linkedin": "https://www.linkedin.com/in/dollydesir/"
+    },
+    "Features": [{
+            "icon": "fa fa-leaf",
+            "title": "Plantbae",
+            "demo": "https://youtu.be/pJTmZwpil18",
+            "text": "Mobile social app where users can add posts, comments and likes. Users can follow & unfollow other users & update their personal profile",
+            "tech": "Firebase & ReactNative"
+        },
+        {
+            "icon": "fa fa-shopping-cart",
+            "demo": "https://youtu.be/YL1VtFR-Spg",
+            "title": "Brooklyn's Bloom",
+            "text": "A Ruby on Rails eCommerce app where users can purchase an assortment of plants and see their purchase history.",
+            "tech": "Ruby on Rails"
+        },
+        {
+            "icon": "fa fa-headphones",
+            "demo": "https://youtu.be/eqXl4FJBuiw",
+            "title": "JS Piano",
+            "text": "Fully functional Piano that allows users to play the piano with real notes. Users can create, save, edit and delete sound sequences. ",
+            "tech": "Rails & Vanilla JS"
+        }
+
+    ]
+}
