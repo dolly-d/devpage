@@ -7,9 +7,9 @@ export class about extends Component {
         <div className="container">
           <div >
             <main className="grid">
-              <img src="img/Me.jpg" width="50" alt="" />
-              <img src="img/Me2.jpg" width="50" alt="" />{" "}
-              <img src="img/Me3.jpg" width="50" alt="" />
+              <img src="img/me.jpg" width="50" alt="" />
+              <img src="img/me2.jpg" width="50" alt="" />{" "}
+              <img src="img/me3.jpg" width="50" alt="" />
               <div > </div>
             </main>
             <div >
