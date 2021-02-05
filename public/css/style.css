@@ -524,9 +524,10 @@ color: #777;
 	border-bottom: 2px solid #608dfd;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 600px) {
 #about img {
 	margin: 10px 0;
 	object-fit: cover;
+	max-height: 280px;
 }
 }
