@@ -36,12 +36,7 @@ export class App extends Component {
   }
 
   render() {
-    if (this.state.qodArray.contents && this.state.qodArray.contents.quotes){
-      console.log(this.state.qodArray.contents.quotes[0].quote);
-    }
-   
-    
-    
+    // console.log(this.state.qodArray.contents.quotes[0].quote)
     return (
       <div>
         <Navigation qod={this.state.qodArray}/>

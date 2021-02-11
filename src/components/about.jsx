@@ -22,7 +22,7 @@ export class about extends Component {
                   <div className="col-lg-6 col-sm-6 col-xs-12">
                     <ul>
                       {this.props.data
-                        ? this.props.data.Why.map((d, i) => (
+                        ? this.props.data.Tech.map((d, i) => (
                             <li key={`${d}-${i}`}>{d}</li>
                           ))
                         : "loading"}
@@ -31,7 +31,7 @@ export class about extends Component {
                   <div className="col-lg-6 col-sm-6 col-xs-12">
                     <ul>
                       {this.props.data
-                        ? this.props.data.Why2.map((d, i) => (
+                        ? this.props.data.Tech.map((d, i) => (
                             <li key={`${d}-${i}`}> {d}</li>
                           ))
                         : "loading"}

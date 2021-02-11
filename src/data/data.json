@@ -7,13 +7,13 @@
     },
     "About": {
         "paragraph": "Hello! My name is Dolly and I'm a Full Stack Software Engineer who enjoys building beautiful applications and troubleshooting through problems. I am a Brooklyn native who loves traveling, beauty, fashion, gaming, health, fitness & so much more! Before transitioning into Software Engineering, I was a brand specialist at Bergdorf Goodman and after 10 years, I was ready to challenge myself and move into a career that will always keep me learning. ",
-        "Why": [
+        "Tech": [
             "Ruby on Rails",
             "Javascript",
             "ReactJS",
             "React Native"
         ],
-        "Why2": [
+        "Tech2": [
             "Firebase",
             "PostgreSQL",
             "SQLite",
@@ -43,7 +43,6 @@
     ],
     "Contact": {
         "address": "Brooklyn, NY ",
-        "phone": "347-683-5309",
         "email": "dolly.desir@gmail.com",
         "twitter": "https://twitter.com/dollicodes",
         "youtube": "https://www.youtube.com/channel/UC_R2bMW1tLFDQbQqqkDSj7w",
