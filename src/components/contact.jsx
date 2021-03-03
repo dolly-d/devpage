@@ -67,9 +67,9 @@ export class Contact extends Component {
                 <h4>Contact Info</h4>
                 <p>
                   <span>
-                    <i className="fa fa-map-marker"></i> Address
-                  </span>
+                    <i className="fa fa-map-marker"></i> 
                   {this.props.data ? this.props.data.address : "loading"}
+                  </span>
                 </p>
               </div>
               <div className="contact-item">
