@@ -21,12 +21,9 @@
         ]
     },
     
-    "Team": [{
-            
-            "job": "Director"
-        },
+    "Team": [
         {
-            "img": "img/team/02.jpg",
+            
             "name": "Mike Doe",
             "job": "Senior Designer"
         }, {
